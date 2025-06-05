@@ -31,3 +31,5 @@ Esto mostrará un dashboard con los gráficos para cada acción.
 - Revenue vs Earnings
 - Analyst Recommendations
 
+![alt text](Dash.png)
+
